@@ -1,0 +1,5 @@
+<resources>
+    <!-- Framework parent is used so the window theme exists on every minSdk 26 device.
+         Compose (Material 3) draws the actual app theme. -->
+    <style name="Theme.BeewiControler" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

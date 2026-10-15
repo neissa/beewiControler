@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BeewiControler</string>
+
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_error">Error: %1$s</string>
+
+    <string name="button_connect">Connect</string>
+    <string name="button_disconnect">Disconnect</string>
+
+    <string name="title_select_car">Choose your car</string>
+    <string name="hint_select_car">Pair the car in Android Bluetooth settings first. Likely cars are listed at the top.</string>
+    <string name="status_no_devices">No devices yet. Pair the car in Bluetooth settings, or tap Scan.</string>
+    <string name="button_scan">Scan</string>
+    <string name="button_stop_scan">Stop scan</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_change_car">Change car</string>
+    <string name="label_likely_car">Likely car</string>
+    <string name="label_paired">Paired</string>
+
+    <string name="label_throttle">Throttle</string>
+    <string name="label_steering">Steering</string>
+</resources>
